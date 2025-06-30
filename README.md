@@ -21,6 +21,9 @@ It serves as a hands-on exploration of Laravel’s core features, best practices
 
 This project is intended as a **code sample** for recruiters or peers who want to evaluate my Laravel skills.
 
+## 🚀 Demo
+🔗 [Demo link](https://www.imadeus.be/others/laravel-jobs/public/index.php)
+
 ## 🔤 Blade Syntax Used
 This project makes extensive use of Laravel’s Blade templating engine, including:
 
